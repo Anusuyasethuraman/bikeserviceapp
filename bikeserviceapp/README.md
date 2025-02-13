@@ -64,3 +64,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+#  Bike Service App - Laravel Project
+
+This is a Laravel-based Bike Service Booking System.
+
+##  Setup Instructions
+See (EXECUTION_INSTRUCTIONS.md) for full setup details.
+
+##  Features
+- User registration & login
+- Book services
+- Admin panel to manage bookings
+
+##  Database Setup
+See (bikeserviceapp).sql) for schema details.
+
+## sample data
+
+see (SAMPLE_DATA.sql) for sample data
